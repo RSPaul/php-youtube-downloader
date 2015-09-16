@@ -1,12 +1,15 @@
-Author: Randhir Singh Paul
-Author URL: https://github.com/RSPaul
-Author Email: randhirsinghpaul@gmail.com
-Tutorial Link: http://www.codexworld.com/upload-video-to-youtube-using-php/
+#Php You Tube Downloader
 
-============ Introduction ============
+    Author: Randhir Singh Paul
+    Author URL: https://github.com/RSPaul
+    Author Email: randhirsinghpaul@gmail.com
+    Tutorial Link: https://github.com/RSPaul/php-youtube-downloader/
+
+#Introduction 
+     
 Complete solution for you tube video downloader with php
 
-============ Installation ============
+#Installation
 1. Create a database (scrapper_db) at phpMyAdmin.
 2. Import the scrapper_db.sql file into the database (scrapper_db).
 3. Open the "config.php" file and modify the database access details.
